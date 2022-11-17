@@ -1,7 +1,7 @@
 Description
 ===========
 
-In LightGBM 3.3.3 the parameter `model.best_iteration_` is not equal to `model.booster_.num_trees()` for certain arguments.
+nrounds seems to be ignore
 
 How to run
 ==========

@@ -6,7 +6,6 @@ from sklearn.model_selection import train_test_split
 X, y = make_regression()
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 
-callbacks = [lightgbm.callback.early_stopping(stopping_rounds=5, verbose=False)]
 N = 10
 param_names = ["num_iteration", 
                "n_iter", 
@@ -21,6 +20,7 @@ param_names = ["num_iteration",
                "num_iterations"]
 
 for param_name in param_names:
+    callbacks = [lightgbm.callback.early_stopping(stopping_rounds=5, verbose=False)]
     kwargs = {param_name: N}
     model = lightgbm.LGBMRegressor(max_depth=1, learning_rate=0.0001, **kwargs)
     model.fit(X_train, y_train, eval_set=[(X_test, y_test)], callbacks=callbacks, verbose=False)
