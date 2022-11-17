@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "lightgbm-early-stopping"
+version = "0.1.0"
+description = ""
+authors = ["Kornel Kielczewski <kornel.mail@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+lightgbm = "3.3.3"
+setuptools = "65.5.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

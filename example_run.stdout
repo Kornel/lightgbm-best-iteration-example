@@ -1,0 +1,12 @@
+[LightGBM] [Warning] num_iterations is set=10, num_iteration=10 will be ignored. Current value: num_iterations=10
+For num_iteration=10 best iteration is 10, num trees 10
+For n_iter=10 best iteration is 10, num trees 10
+For num_tree=10 best iteration is 10, num trees 10
+For num_trees=10 best iteration is 10, num trees 10
+For num_round=10 best iteration is 10, num trees 10
+For num_rounds=10 best iteration is 10, num trees 10
+For nrounds=10 best iteration is 100, num trees 100
+For num_boost_round=10 best iteration is 100, num trees 10
+For n_estimators=10 best iteration is 100, num trees 10
+For max_iter=10 best iteration is 100, num trees 10
+For num_iterations=10 best iteration is 100, num trees 10

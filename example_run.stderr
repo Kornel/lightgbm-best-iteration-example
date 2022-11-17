@@ -1,0 +1,40 @@
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/sklearn.py:736: UserWarning: 'verbose' argument is deprecated and will be removed in a future release of LightGBM. Pass 'log_evaluation()' callback via 'callbacks' argument instead.
+  _log_warning("'verbose' argument is deprecated and will be removed in a future release of LightGBM. "
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/engine.py:177: UserWarning: Found `num_iteration` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/sklearn.py:736: UserWarning: 'verbose' argument is deprecated and will be removed in a future release of LightGBM. Pass 'log_evaluation()' callback via 'callbacks' argument instead.
+  _log_warning("'verbose' argument is deprecated and will be removed in a future release of LightGBM. "
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/engine.py:177: UserWarning: Found `n_iter` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/sklearn.py:736: UserWarning: 'verbose' argument is deprecated and will be removed in a future release of LightGBM. Pass 'log_evaluation()' callback via 'callbacks' argument instead.
+  _log_warning("'verbose' argument is deprecated and will be removed in a future release of LightGBM. "
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/engine.py:177: UserWarning: Found `num_tree` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/sklearn.py:736: UserWarning: 'verbose' argument is deprecated and will be removed in a future release of LightGBM. Pass 'log_evaluation()' callback via 'callbacks' argument instead.
+  _log_warning("'verbose' argument is deprecated and will be removed in a future release of LightGBM. "
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/engine.py:177: UserWarning: Found `num_trees` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/sklearn.py:736: UserWarning: 'verbose' argument is deprecated and will be removed in a future release of LightGBM. Pass 'log_evaluation()' callback via 'callbacks' argument instead.
+  _log_warning("'verbose' argument is deprecated and will be removed in a future release of LightGBM. "
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/engine.py:177: UserWarning: Found `num_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/sklearn.py:736: UserWarning: 'verbose' argument is deprecated and will be removed in a future release of LightGBM. Pass 'log_evaluation()' callback via 'callbacks' argument instead.
+  _log_warning("'verbose' argument is deprecated and will be removed in a future release of LightGBM. "
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/engine.py:177: UserWarning: Found `num_rounds` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/sklearn.py:736: UserWarning: 'verbose' argument is deprecated and will be removed in a future release of LightGBM. Pass 'log_evaluation()' callback via 'callbacks' argument instead.
+  _log_warning("'verbose' argument is deprecated and will be removed in a future release of LightGBM. "
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/sklearn.py:736: UserWarning: 'verbose' argument is deprecated and will be removed in a future release of LightGBM. Pass 'log_evaluation()' callback via 'callbacks' argument instead.
+  _log_warning("'verbose' argument is deprecated and will be removed in a future release of LightGBM. "
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/engine.py:177: UserWarning: Found `num_boost_round` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/sklearn.py:736: UserWarning: 'verbose' argument is deprecated and will be removed in a future release of LightGBM. Pass 'log_evaluation()' callback via 'callbacks' argument instead.
+  _log_warning("'verbose' argument is deprecated and will be removed in a future release of LightGBM. "
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/sklearn.py:736: UserWarning: 'verbose' argument is deprecated and will be removed in a future release of LightGBM. Pass 'log_evaluation()' callback via 'callbacks' argument instead.
+  _log_warning("'verbose' argument is deprecated and will be removed in a future release of LightGBM. "
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/engine.py:177: UserWarning: Found `max_iter` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/sklearn.py:736: UserWarning: 'verbose' argument is deprecated and will be removed in a future release of LightGBM. Pass 'log_evaluation()' callback via 'callbacks' argument instead.
+  _log_warning("'verbose' argument is deprecated and will be removed in a future release of LightGBM. "
+/Users/kkielczewski/Documents/lightgbm-best-iteration-example/.venv/lib/python3.8/site-packages/lightgbm/engine.py:177: UserWarning: Found `num_iterations` in params. Will use it instead of argument
+  _log_warning(f"Found `{alias}` in params. Will use it instead of argument")
